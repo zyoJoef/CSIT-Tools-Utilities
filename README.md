@@ -70,6 +70,13 @@ Software Tools or Utilities that I use (Windows-Based)
     <img src="https://github.com/user-attachments/assets/af7b6a30-696a-4f02-9a12-a7ff405b386e" alt="WinBox" style="width:50%">
 
 
+
+<h2>Remote Desktop</h2>
+  <a href="https://parsec.app/downloads">Parsec</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/e892f448-2350-4ab3-9f39-d3e2da67e48c" alt="Pasec" style="width:50%">
+
+
   
 <h2>Simulator</h2>
   <a href="https://www.netacad.com/resources/lab/cisco-packet-tracer-resources">Cisco Packet Tracer</a>
@@ -109,6 +116,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://en.wikipedia.org/wiki/XAMPP</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
+  <li>https://support.parsec.app/hc/en-us/articles/32381199341716-Parsec-App-for-Windows</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
