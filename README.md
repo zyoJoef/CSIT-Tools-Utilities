@@ -27,7 +27,6 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 
-
 <h2>Disk Partitioning and Cloning</h2>
   <a href="https://www.lazesoft.com/lazesoft-recovery-suite-free.html">Lazersoft Recovery Suite Free</a>
 <br>
@@ -90,6 +89,17 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 
+<h2>Productivity</h2>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web">MS 365</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/0a8b6e0c-97a5-459b-9607-3437937c6f66" alt="MS 365" style="width:50%">
+<br>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/visio">MS Visio</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/4d9e6421-b32c-4c41-a609-fbf9ba0c6a45" alt="MS Visio" style="width:50%">
+
+
+
 <h2>Remote Desktop</h2>
   <a href="https://parsec.app/downloads">Parsec</a>
 <br>
@@ -138,6 +148,8 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://en.wikipedia.org/wiki/XAMPP</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
+  <li>https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web</li>
+  <li>https://www.conceptdraw.com/examples/network-design-using-visio</li>
   <li>https://support.parsec.app/hc/en-us/articles/32381199341716-Parsec-App-for-Windows</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
