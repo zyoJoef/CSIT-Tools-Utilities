@@ -1,4 +1,4 @@
-# CSIT-Tools-Utilities
+# CSIT Tools Utilities
 Tools or Utilities that I use as a CSIT student
 
 <h2>IDE and other Coding Programs</h2>
