@@ -27,10 +27,17 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 
+<h2>File Archiver</h2>
+  <a href="https://www.7-zip.org/download.html">7-zip</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/ac466c05-f086-4f6d-a2ca-87c4d72f153f" alt="7-zip" style="width:50%"/>
+
+
+
 <h2>Homelab VPN</h2>
   <a href="https://tailscale.com/download">Tailscale</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/10db921e-b8b5-4adb-b4e5-7f19aec19088" alt="Tailscale" style="width:50%"/>
+    <img src="https://github.com/user-attachments/assets/6775d1e8-bede-431e-99fc-2d18f86ae35a" alt="Tailscale" style="width:50%"/>
 
 
 
@@ -110,6 +117,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://www.ventoy.net/en/index.html</li>
   <li>https://www.lazesoft.com/blog/lazesoft-recovery-suite-v4-2-has-been-released/</li>
   <li>https://www.hdd-tool.com/download/free-partition-manager-download.html</li>
+  <li>https://www.tc4shell.com/en/7zip/modern7z/</li>
   <li>https://tailscale.com/blog/services-beta</li>
   <li>https://netbeans.apache.org/front/main/download/nb113/</li>
   <li>https://dataedo.com/kb/tools/mysql-workbench/create-database-diagram</li>
