@@ -16,6 +16,18 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 
+<h2>Dell</h2>
+  <a href="https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-os-recovery-tool">OS Recovery Tool</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/51c64fd8-da27-4d6c-8991-46324b876ad5" alt="OS Recovery Tool" style="width:50%"/>
+<br>
+  <a href="https://blog.terenceluk.com/2017/01/where-to-download-wyse-usb-firmware.html">Wyse USB Imaging Tool (Use Web Archive)</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/0cecec32-b695-4018-a69f-eb7b421d9da8" alt="Wyse USB Imaging Tool" style="width:50%"/>
+
+
+
+
 <h2>Disk Partitioning and Cloning</h2>
   <a href="https://www.lazesoft.com/lazesoft-recovery-suite-free.html">Lazersoft Recovery Suite Free</a>
 <br>
@@ -115,6 +127,8 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://www.balena.io/etcher-pro</li>
   <li>https://rufus.ie/en/</li>
   <li>https://www.ventoy.net/en/index.html</li>
+  <li>https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-os-recovery-tool</li>
+  <li>https://support.inflexionpoint.ai/portal/en/kb/articles/dell-wyse-thin-client-flashing-a-new-image</li>
   <li>https://www.lazesoft.com/blog/lazesoft-recovery-suite-v4-2-has-been-released/</li>
   <li>https://www.hdd-tool.com/download/free-partition-manager-download.html</li>
   <li>https://www.tc4shell.com/en/7zip/modern7z/</li>
