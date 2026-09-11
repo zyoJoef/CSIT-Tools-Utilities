@@ -26,6 +26,10 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 <h2>IDE and other Coding Programs</h2>
+   <a href="https://netbeans.apache.org/front/main/download/">Apache NetBeans</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/083a8e8b-7a0c-4ac9-b844-bcf8b32741f7" alt="Apache NetBeans" style="width:50%"/> 
+<br>
   <a href="https://code.visualstudio.com">Visual Studio Code</a>
 <br>
     <img src="https://github.com/user-attachments/assets/bd4ce424-03b2-4561-9abd-19674500a567" alt="Visual Studio Code" style="width:50%"/>
@@ -75,6 +79,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://www.ventoy.net/en/index.html</li>
   <li>https://www.lazesoft.com/blog/lazesoft-recovery-suite-v4-2-has-been-released/</li>
   <li>https://www.hdd-tool.com/download/free-partition-manager-download.html</li>
+  <li>https://netbeans.apache.org/front/main/download/nb113/</li>
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
