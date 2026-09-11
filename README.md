@@ -53,7 +53,10 @@ Tools or Utilities that I use as a CSIT student (Windows-Based)
 
 
 <h2>Virtual Machine/Virtualization</h2>
-  <a href="https://www.netacad.com/resources/lab/cisco-packet-tracer-resources">Cisco Packet Tracer</a>
+  <a href="https://www.virtualbox.org/wiki/Downloads">Oracle VirtualBox</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/7d8818cd-f693-42eb-83ba-6cba75995718" alt="PuTTY" style="width:50%">
+
 
 <h2>Image Sources</h2>
 <ul>
@@ -64,7 +67,5 @@ Tools or Utilities that I use as a CSIT student (Windows-Based)
   <li>https://operavps.com/docs/what-is-winbox/</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
+  <li>https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/intro-starting.html</li>
 </ul>
