@@ -2,9 +2,13 @@
 Tools or Utilities that I use as a CSIT student (Windows-Based)
 
 <h2>Bootable Media</h2>
-<a href="https://code.visualstudio.com">Balena Etcher</a>
+  <a href="https://code.visualstudio.com">Balena Etcher</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/bd4ce424-03b2-4561-9abd-19674500a567" alt="Visual Studio Code" style="width:50%"/>
 <a href="https://code.visualstudio.com">Rufus</a>
-<a href="https://code.visualstudio.com">Ventoy</a>
+  <a href="https://www.ventoy.net/en/index.html">Ventoy</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/d8beb161-9093-43ac-a6db-0d3244d628d1" alt="Visual Studio Code" style="width:50%"/>
 
 
 <h2>IDE and other Coding Programs</h2>
@@ -49,6 +53,7 @@ Tools or Utilities that I use as a CSIT student (Windows-Based)
 
 <h2>Image Sources</h2>
 <ul>
+  <li>https://www.ventoy.net/en/index.html</li>
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
