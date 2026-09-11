@@ -27,6 +27,13 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 
+<h2>Homelab VPN</h2>
+  <a href="https://tailscale.com/download">Tailscale</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/10db921e-b8b5-4adb-b4e5-7f19aec19088" alt="Tailscale" style="width:50%"/>
+
+
+
 <h2>IDE and other Coding Programs</h2>
    <a href="https://netbeans.apache.org/front/main/download/">Apache NetBeans</a>
 <br>
@@ -96,12 +103,14 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://www.ventoy.net/en/index.html</li>
   <li>https://www.lazesoft.com/blog/lazesoft-recovery-suite-v4-2-has-been-released/</li>
   <li>https://www.hdd-tool.com/download/free-partition-manager-download.html</li>
+  <li>https://tailscale.com/blog/services-beta</li>
   <li>https://netbeans.apache.org/front/main/download/nb113/</li>
   <li>https://dataedo.com/kb/tools/mysql-workbench/create-database-diagram</li>
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://en.wikipedia.org/wiki/XAMPP</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
+  <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
   <li>https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/intro-starting.html</li>
 </ul>
