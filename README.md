@@ -2,13 +2,17 @@
 Tools or Utilities that I use as a CSIT student (Windows-Based)
 
 <h2>Bootable Media</h2>
-  <a href="https://code.visualstudio.com">Balena Etcher</a>
+  <a href="https://www.balena.io/etcher-pro">Balena Etcher</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/bd4ce424-03b2-4561-9abd-19674500a567" alt="Visual Studio Code" style="width:50%"/>
-<a href="https://code.visualstudio.com">Rufus</a>
+    <img src="https://github.com/user-attachments/assets/ca614544-f3f3-48ae-b816-b6e155ea9a42" alt="Balena Etcher" style="width:50%"/>
+<br>
+  <a href="https://rufus.ie/en/">Rufus</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/2ef448a9-1c37-4aa5-a466-33d718eca305" alt="Rufus" style="width:50%"/>
+<br>
   <a href="https://www.ventoy.net/en/index.html">Ventoy</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/d8beb161-9093-43ac-a6db-0d3244d628d1" alt="Visual Studio Code" style="width:50%"/>
+    <img src="https://github.com/user-attachments/assets/d8beb161-9093-43ac-a6db-0d3244d628d1" alt="Ventoy" style="width:50%"/>
 
 
 <h2>IDE and other Coding Programs</h2>
@@ -18,9 +22,9 @@ Tools or Utilities that I use as a CSIT student (Windows-Based)
 
 
 <h2>IP Address Scanner</h2>
-<a href="https://www.advanced-ip-scanner.com">Advanced IP Scanner</a>
+  <a href="https://www.advanced-ip-scanner.com">Advanced IP Scanner</a>
 <br>
-  <img src="https://github.com/user-attachments/assets/17ddb185-b157-4b53-bc26-fe84c7f401e9" alt="Advanced IP Scanner" style="width:50%">
+    <img src="https://github.com/user-attachments/assets/17ddb185-b157-4b53-bc26-fe84c7f401e9" alt="Advanced IP Scanner" style="width:50%">
 
 
 <h2>MikroTik</h2>
@@ -30,12 +34,12 @@ Tools or Utilities that I use as a CSIT student (Windows-Based)
 <br>
   <a href="https://mikrotik.com/download/tools">WinBox</a>
 <br>
-  <img src="https://github.com/user-attachments/assets/af7b6a30-696a-4f02-9a12-a7ff405b386e" alt="WinBox" style="width:50%">
+    <img src="https://github.com/user-attachments/assets/af7b6a30-696a-4f02-9a12-a7ff405b386e" alt="WinBox" style="width:50%">
   
 <h2>Simulator</h2>
   <a href="https://www.netacad.com/resources/lab/cisco-packet-tracer-resources">Cisco Packet Tracer</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/b4eb58d0-8442-4cf8-b006-da075a1570ff" alt="Advanced IP Scanner" style="width:50%">
+    <img src="https://github.com/user-attachments/assets/b4eb58d0-8442-4cf8-b006-da075a1570ff" alt="Cisco Packet Tracer" style="width:50%">
 <br>
   <a href="https://servicedesk-simulator.com">Service Desk Simulator</a>
 <br>
@@ -53,28 +57,13 @@ Tools or Utilities that I use as a CSIT student (Windows-Based)
 
 <h2>Image Sources</h2>
 <ul>
+  <li>https://www.balena.io/etcher-pro</li>
+  <li>https://rufus.ie/en/</li>
   <li>https://www.ventoy.net/en/index.html</li>
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
   <li>First item</li>
   <li>Second item</li>
   <li>Third item</li>
