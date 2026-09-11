@@ -1,5 +1,5 @@
 # CSIT Tools Utilities
-Software Tools or Utilities that I use as a CSIT student (Windows-Based)
+Software Tools or Utilities that I use (Windows-Based)
 
 <h2>Bootable Media</h2>
   <a href="https://www.balena.io/etcher-pro">Balena Etcher</a>
