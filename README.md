@@ -15,14 +15,14 @@ Software Tools or Utilities that I use as a CSIT student (Windows-Based)
     <img src="https://github.com/user-attachments/assets/d8beb161-9093-43ac-a6db-0d3244d628d1" alt="Ventoy" style="width:50%"/>
 
 
-<h2>Disk Partitioning and Recovery</h2>
-  <a href="https://www.balena.io/etcher-pro">Balena Etcher</a>
+<h2>Disk Partitioning and Cloning</h2>
+  <a href="https://www.lazesoft.com/lazesoft-recovery-suite-free.html">Lazersoft Recovery Suite Free</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/ca614544-f3f3-48ae-b816-b6e155ea9a42" alt="Balena Etcher" style="width:50%"/>
+    <img src="https://github.com/user-attachments/assets/eecd9cbf-3d1f-4581-b342-80c734547cca" alt="Lazersoft Recovery Suite Free" style="width:50%"/>
 <br>
   <a href="https://www.hdd-tool.com/partition-manager/partition-editor-free.html">NIUBI Partition Editor Free Edition</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/5c030a01-a064-41f4-ad63-4789e7229c1f" alt="Rufus" style="width:50%"/>
+    <img src="https://github.com/user-attachments/assets/5c030a01-a064-41f4-ad63-4789e7229c1f" alt="NIUBI Partition Editor Free Edition" style="width:50%"/>
 
 
 <h2>IDE and other Coding Programs</h2>
@@ -65,7 +65,7 @@ Software Tools or Utilities that I use as a CSIT student (Windows-Based)
 <h2>Virtual Machine/Virtualization</h2>
   <a href="https://www.virtualbox.org/wiki/Downloads">Oracle VirtualBox</a>
 <br>
-    <img src="https://github.com/user-attachments/assets/7d8818cd-f693-42eb-83ba-6cba75995718" alt="PuTTY" style="width:50%">
+    <img src="https://github.com/user-attachments/assets/7d8818cd-f693-42eb-83ba-6cba75995718" alt="Oracle VirtualBox" style="width:50%">
 
 
 <h2>Image Sources</h2>
@@ -73,6 +73,7 @@ Software Tools or Utilities that I use as a CSIT student (Windows-Based)
   <li>https://www.balena.io/etcher-pro</li>
   <li>https://rufus.ie/en/</li>
   <li>https://www.ventoy.net/en/index.html</li>
+  <li>https://www.lazesoft.com/blog/lazesoft-recovery-suite-v4-2-has-been-released/</li>
   <li>https://www.hdd-tool.com/download/free-partition-manager-download.html</li>
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
