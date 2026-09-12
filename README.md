@@ -1,7 +1,7 @@
 # CSIT Tools Utilities
 Software Tools or Utilities that I use (Windows-Based)
 
-<h2>Bootable Media</h2>
+<h2>Bootable Installation Media</h2>
   <a href="https://www.balena.io/etcher-pro">Balena Etcher</a>
 <br>
     <img src="https://github.com/user-attachments/assets/ca614544-f3f3-48ae-b816-b6e155ea9a42" alt="Balena Etcher" style="width:50%"/>
