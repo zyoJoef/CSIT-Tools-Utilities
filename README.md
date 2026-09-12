@@ -125,6 +125,13 @@ Software Tools or Utilities that I use (Windows-Based)
 
 
 
+<h2>Uninstaller</h2>
+  <a href="https://www.revouninstaller.com/products/revo-uninstaller-free/">Revo Uninstaller</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/e32ebcc1-c138-42fa-8eda-b4dffd84db8d" alt="PuTTY" style="width:50%">
+
+
+
 <h2>Virtual Machine/Virtualization</h2>
   <a href="https://www.virtualbox.org/wiki/Downloads">Oracle VirtualBox</a>
 <br>
@@ -154,5 +161,6 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
+  <li>https://www.revouninstaller.com/products/revo-uninstaller-free/</li>
   <li>https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/intro-starting.html</li>
 </ul>
