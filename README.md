@@ -61,6 +61,10 @@ Software Tools or Utilities that I use (Windows-Based)
 <br>
     <img src="https://github.com/user-attachments/assets/7b899b1e-5543-445e-a449-e0ed9a6f11dd" alt="MySQL Workbench" style="width:50%"/> 
 <br>
+  <a href="https://notepad-plus-plus.org">Notepad++</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/a42bd24a-15bd-46c5-889e-8c0a0acaa625" alt="XAMPP Code" style="width:50%"/>
+<br>
   <a href="https://code.visualstudio.com">Visual Studio Code</a>
 <br>
     <img src="https://github.com/user-attachments/assets/bd4ce424-03b2-4561-9abd-19674500a567" alt="Visual Studio Code" style="width:50%"/>
@@ -152,6 +156,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://tailscale.com/blog/services-beta</li>
   <li>https://netbeans.apache.org/front/main/download/nb113/</li>
   <li>https://dataedo.com/kb/tools/mysql-workbench/create-database-diagram</li>
+  <li>https://www.softwareadvice.ie/software/115605/notepad</li>
   <li>https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/</li>
   <li>https://en.wikipedia.org/wiki/XAMPP</li>
   <li>https://operavps.com/docs/what-is-winbox/</li>
