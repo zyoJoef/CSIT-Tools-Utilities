@@ -33,7 +33,7 @@ Operating System (OS) ISO that I use
       <li><a href="https://www.debian.org/distrib/">Debian</a></li>
       <li><a href="https://fedoraproject.org/server/download/">Fedora</a></li>
       <li><a href="https://ubuntu.com/download/server">Ubuntu Server</a></li>
-      <li><a href="https://www.zimaspace.com/zimaos/download">ZimaOs</a></li>
+      <li><a href="https://www.zimaspace.com/zimaos/download">ZimaOS</a></li>
     </ul>
 </ul>
 
