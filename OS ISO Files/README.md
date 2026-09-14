@@ -49,3 +49,9 @@ Operating System (OS) ISO that I use
   <li>SystemRescue</li>
   <li>Dell Diag OS (Diagnostic OS)</li>
 </ul>
+
+<h2>Other Youtube Videos Reference Used</h2>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=_5vv3j-dW4o">Linux Tips - Install Full Debian Bookworm on a USB Drive (2023) | AgileDevArt</a></li>
+</ul>
+
