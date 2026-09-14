@@ -39,8 +39,8 @@ Operating System (OS) ISO that I use
 
 <h2>Others</h2>
 <ul>
-  <li>DietPi</li>
-  <li>Proxmox</li>
+  <li><a href="https://dietpi.com/#download">DietPi</a></li>
+  <li><a href="https://www.proxmox.com/en/downloads/proxmox-virtual-environment">Proxmox</a></li>
 </ul>
 
 <h2>Diagnostic/Recovery</h2>
