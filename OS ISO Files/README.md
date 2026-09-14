@@ -22,10 +22,10 @@ Operating System (OS) ISO that I use
 
   <h3 id="list-title">MacOs Theme</h3>
     <ul>
-      <li>Cutefish OS</li>
-      <li>ElementaryOS </li>
-      <li>LingmoOS</li>
-      <li>PearOS</li>
+      <li><a href="https://cutefish-ubuntu.github.io/download/">Cutefish OS</a></li>
+      <li><a href="https://elementary.io/">ElementaryOS</a></li>
+      <li><a href="https://sourceforge.net/projects/lingmo-os/">LingmoOS</a></li>
+      <li><a href="https://pearos.xyz/nicecore/">PearOS</a></li>
     </ul>
   
   <h3 id="list-title">Server</h3>
