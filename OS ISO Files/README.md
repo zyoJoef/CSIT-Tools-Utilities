@@ -30,10 +30,10 @@ Operating System (OS) ISO that I use
   
   <h3 id="list-title">Server</h3>
     <ul>
-      <li>Debian</li>
-      <li>Fedora</li>
-      <li>Ubuntu</li>
-      <li>ZimaOs</li>
+      <li><a href="https://www.debian.org/distrib/">Debian</a></li>
+      <li><a href="https://fedoraproject.org/server/download/">Fedora</a></li>
+      <li><a href="https://ubuntu.com/download/server">Ubuntu Server</a></li>
+      <li><a href="https://www.zimaspace.com/zimaos/download">ZimaOs</a></li>
     </ul>
 </ul>
 
