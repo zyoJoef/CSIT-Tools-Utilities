@@ -12,20 +12,28 @@ Operating System (OS) ISO
   <h3 id="list-title">Desktop</h3>
     <ul>
       <li>Debian</li>
+      <li>Fedora Workstation</li>
       <li>Kali</li>
+      <li>Mint</li>
       <li>Manjaro</li>
       <li>Ubuntu</li>
+      <li>Winux</li>
     </ul>
 
   <h3 id="list-title">MacOs Theme</h3>
     <ul>
+      <li>Cutefish OS</li>
+      <li>ElementaryOS </li>
+      <li>LingmoOS</li>
       <li>PearOS</li>
     </ul>
   
   <h3 id="list-title">Server</h3>
     <ul>
       <li>Debian</li>
+      <li>Fedora</li>
       <li>Ubuntu</li>
+      <li>ZimaOs</li>
     </ul>
 </ul>
 
@@ -33,7 +41,6 @@ Operating System (OS) ISO
 <ul>
   <li>DietPi</li>
   <li>Proxmox</li>
-  <li>ZimaOs</li>
 </ul>
 
 <h2>Diagnostic/Recovery</h2>
@@ -41,5 +48,4 @@ Operating System (OS) ISO
   <li>Hirens Boot</li>
   <li>SystemRescue</li>
   <li>Dell Diag OS (Diagnostic OS)</li>
-  <li>ZimaOs</li>
 </ul>
