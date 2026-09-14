@@ -59,5 +59,13 @@ Operating System (OS) ISO that I use
   <li><a href="https://www.youtube.com/watch?v=_5vv3j-dW4o">Linux Tips - Install Full Debian Bookworm on a USB Drive (2023) | AgileDevArt</a></li>
   <li><a href="https://www.youtube.com/watch?v=QXCBWQ6i_yI">How to PROPERLY Dual-boot Windows 11 and Ubuntu (2024) | SysGuides</a></li>
   <li><a href="https://www.youtube.com/watch?v=ECmoqrNQLCw">I might have found the BEST budget router... | Hardware Haven</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OB51DoA43CI">Easily Install Pi-Hole using Diet Pi ! - Quick & Easy ! | Matthews Tech Hub</a></li>
+  <li><a href="https://www.youtube.com/watch?v=xtMFcVx3cHU">The Pi-Hole install EVERYONE needs! | TechHut</a></li>
+  <li><a href="https://www.youtube.com/watch?v=FnFtWsZ8IP0">You're running Pi-Hole wrong! Setting up your own Recursive DNS Server! | Craft Computing</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Zbg1M-u_l3w">Blocking Ads With a 15 Year Old Computer | Hardware Haven</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GVPhBSmMuq8">I Quit Ads... Forever. | Switch and Click</a></li>
+  <li><a href="https://www.youtube.com/watch?v=lFzWDJcRsqo">Proxmox Beginner’s Guide: Everything You Need to Get Started | WunderTech</a></li>
+  <li><a href="https://www.youtube.com/watch?v=r5zPBhuyy00">How to install and set up ZimaOS on your own hardware. | Benjamin S Powell</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0Lppql8nUiY&t=117s">Turn Your Old Laptop Into a Beginners Home Server With ZimaOS! | SjslTech</a></li>
 </ul>
 
