@@ -3,8 +3,8 @@ Operating System (OS) ISO
 
 <h2>Windows</h2>
 <ul>
-  <li>windows 10</li>
-  <li>windows 11</li>
+  <li>Windows 10</li>
+  <li>Windows 11</li>
 </ul>
 
 <h2>Linux</h2>
