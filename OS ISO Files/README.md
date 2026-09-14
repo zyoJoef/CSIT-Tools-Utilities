@@ -15,9 +15,9 @@ Operating System (OS) ISO that I use
       <li><a href="https://fedoraproject.org/workstation/">Fedora Workstation</a></li>
       <li><a href="https://www.kali.org/get-kali/#kali-platforms">Kali</a></li>
       <li><a href="https://linuxmint.com/download.php">Mint</a></li>
-      <li>Manjaro</li>
-      <li>Ubuntu</li>
-      <li>Winux</li>
+      <li><a href="https://manjaro.org/products/download/x86">Manjaro</a></li>
+      <li><a href="https://ubuntu.com/download/desktop">Ubuntu</a></li>
+      <li><a href="https://www.winux.is/download/">Winux</a></li>
     </ul>
 
   <h3 id="list-title">MacOs Theme</h3>
