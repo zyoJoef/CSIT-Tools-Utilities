@@ -53,5 +53,7 @@ Operating System (OS) ISO that I use
 <h2>Youtube Video Reference Used</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=_5vv3j-dW4o">Linux Tips - Install Full Debian Bookworm on a USB Drive (2023) | AgileDevArt</a></li>
+  <li><a href="https://www.youtube.com/watch?v=QXCBWQ6i_yI">How to PROPERLY Dual-boot Windows 11 and Ubuntu (2024) | SysGuides</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ECmoqrNQLCw">I might have found the BEST budget router... | Hardware Haven</a></li>
 </ul>
 
