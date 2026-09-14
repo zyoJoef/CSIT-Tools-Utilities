@@ -3,8 +3,8 @@ Operating System (OS) ISO that I use
 
 <h2>Windows</h2>
 <ul>
-  <li>Windows 10</li>
-  <li>Windows 11</li>
+  <li><a href="https://www.windowslatest.com/2025/08/08/download-windows-10-iso-version-22h2-before-end-of-support/">Windows 10</a></li>
+  <li><a href="https://www.microsoft.com/en-us/software-download/windows11">Windows 11</a></li>
 </ul>
 
 <h2>Linux</h2>
