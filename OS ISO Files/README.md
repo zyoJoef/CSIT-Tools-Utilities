@@ -38,6 +38,7 @@ Operating System (OS) ISO
 
 <h2>Diagnostic/Recovery</h2>
 <ul>
+  <li>Hirens Boot</li>
   <li>SystemRescue</li>
   <li>Dell Diag OS (Diagnostic OS)</li>
   <li>ZimaOs</li>
