@@ -67,5 +67,6 @@ Operating System (OS) ISO that I use
   <li><a href="https://www.youtube.com/watch?v=lFzWDJcRsqo">Proxmox Beginner’s Guide: Everything You Need to Get Started | WunderTech</a></li>
   <li><a href="https://www.youtube.com/watch?v=r5zPBhuyy00">How to install and set up ZimaOS on your own hardware. | Benjamin S Powell</a></li>
   <li><a href="https://www.youtube.com/watch?v=0Lppql8nUiY&t=117s">Turn Your Old Laptop Into a Beginners Home Server With ZimaOS! | SjslTech</a></li>
+  <li><a href="https://www.instagram.com/reel/DbRBdQNMhfu/?igsh=MWJjMDg5dHV0bWxhbw%3D%3D&fbclid=IwY2xjawUUdKpwZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkATAAAR6j2fbDiuIj3qKWbrcoY-5kFIGQl82zlfrBeqlmxUwiZhLNBV2QytgJzXdA4w_aem_dMj_tJ4XQPwNphvt0DZ5VQ)">One USB Dozens of IT Tools | securitywithsam</a></li>
 </ul>
 
