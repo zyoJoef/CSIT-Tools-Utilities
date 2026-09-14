@@ -45,12 +45,12 @@ Operating System (OS) ISO that I use
 
 <h2>Diagnostic/Recovery</h2>
 <ul>
-  <li>Hirens Boot</li>
-  <li>SystemRescue</li>
-  <li>Dell Diag OS (Diagnostic OS)</li>
+  <li><a href="https://www.hirensbootcd.org/download/">Hirens Boot</a></li>
+  <li><a href="https://www.system-rescue.org/Download/">SystemRescue</a></li>
+  <li><a href="https://www.dell.com/support/home/en-ph/drivers/driversdetails?driverid=kt4xy">Dell Diag OS (Diagnostic OS)</a></li>
 </ul>
 
-<h2>Other Youtube Videos Reference Used</h2>
+<h2>Youtube Video Reference Used</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=_5vv3j-dW4o">Linux Tips - Install Full Debian Bookworm on a USB Drive (2023) | AgileDevArt</a></li>
 </ul>
