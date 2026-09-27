@@ -123,6 +123,10 @@ Software Tools or Utilities that I use (Windows-Based)
   <a href="https://servicedesk-simulator.com">Service Desk Simulator</a>
 <br>
     <img src="https://github.com/user-attachments/assets/5975c386-d001-42b6-bcf5-1011232bff69" alt="Service Desk Simulator" style="width:50%">
+<br>
+  <a href="https://tryhackme.com/">TryHackMe</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/8a64c588-ed6f-4278-914a-c6e2c57b496f" alt="TryHackMe" style="width:50%">
 
 
 
@@ -170,6 +174,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://www.reddit.com/r/CompTIA_Security/comments/1vkc9h9/is_this_enough_to_pass/</li>
   <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
+  <li>https://tryhackme.com/certification/security-analyst-level-1</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
   <li>https://www.revouninstaller.com/products/revo-uninstaller-free/</li>
   <li>https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/intro-starting.html</li>
