@@ -115,6 +115,10 @@ Software Tools or Utilities that I use (Windows-Based)
   <a href="https://www.netacad.com/resources/lab/cisco-packet-tracer-resources">Cisco Packet Tracer</a>
 <br>
     <img src="https://github.com/user-attachments/assets/b4eb58d0-8442-4cf8-b006-da075a1570ff" alt="Cisco Packet Tracer" style="width:50%">
+<br>    
+    <a href="https://www.cyberclash.io/">CyberClash</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/7f7d8fea-8bd3-4eba-96b8-7adea19cb2cf" alt="CyberClash" style="width:50%">
 <br>
   <a href="https://servicedesk-simulator.com">Service Desk Simulator</a>
 <br>
@@ -164,6 +168,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://www.conceptdraw.com/examples/network-design-using-visio</li>
   <li>https://support.parsec.app/hc/en-us/articles/32381199341716-Parsec-App-for-Windows</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
+  <li>https://www.reddit.com/r/CompTIA_Security/comments/1vkc9h9/is_this_enough_to_pass/</li>
   <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
   <li>https://www.ssh.com/academy/ssh/putty/windows</li>
   <li>https://www.revouninstaller.com/products/revo-uninstaller-free/</li>
