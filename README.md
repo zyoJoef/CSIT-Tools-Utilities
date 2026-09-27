@@ -32,6 +32,10 @@ Software Tools or Utilities that I use (Windows-Based)
 <br>
     <img src="https://github.com/user-attachments/assets/eecd9cbf-3d1f-4581-b342-80c734547cca" alt="Lazersoft Recovery Suite Free" style="width:50%"/>
 <br>
+  <a href="https://www.majorgeeks.com/files/details/macrium_reflect_free_edition.html#google_vignette">Macrium Reflect Free (Legacy Edition)</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/43f70720-40bf-42ea-9070-d33ee13418cb" alt="Macrium Reflect Free (Legacy Edition)" style="width:50%"/>
+<br>
   <a href="https://www.hdd-tool.com/partition-manager/partition-editor-free.html">NIUBI Partition Editor Free Edition</a>
 <br>
     <img src="https://github.com/user-attachments/assets/5c030a01-a064-41f4-ad63-4789e7229c1f" alt="NIUBI Partition Editor Free Edition" style="width:50%"/>
@@ -163,6 +167,7 @@ Software Tools or Utilities that I use (Windows-Based)
   <li>https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-os-recovery-tool</li>
   <li>https://support.inflexionpoint.ai/portal/en/kb/articles/dell-wyse-thin-client-flashing-a-new-image</li>
   <li>https://www.lazesoft.com/blog/lazesoft-recovery-suite-v4-2-has-been-released/</li>
+  <li>https://www.how2shout.com/how-to/how-to-install-macrium-reflect-free-to-clone-a-hard-drive.html</li>
   <li>https://www.hdd-tool.com/download/free-partition-manager-download.html</li>
   <li>https://www.tc4shell.com/en/7zip/modern7z/</li>
   <li>https://tailscale.com/blog/services-beta</li>
