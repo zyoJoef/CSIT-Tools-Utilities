@@ -1,6 +1,13 @@
 # OS ISO Files 
 Operating System (OS) ISO that I use
 
+<h2>Diagnostic/Recovery</h2>
+<ul>
+  <li><a href="https://www.dell.com/support/home/en-ph/drivers/driversdetails?driverid=kt4xy">Dell Diag OS (Diagnostic OS)</a></li>
+  <li><a href="https://www.hirensbootcd.org/download/">Hirens Boot</a></li>
+  <li><a href="https://www.system-rescue.org/Download/">SystemRescue</a></li>
+</ul>
+
 <h2>Linux</h2>
 <ul>
   <h3 id="list-title">Desktop</h3>
@@ -41,13 +48,6 @@ Operating System (OS) ISO that I use
 <ul>
   <li><a href="https://dietpi.com/#download">DietPi</a></li>
   <li><a href="https://www.proxmox.com/en/downloads/proxmox-virtual-environment">Proxmox</a></li>
-</ul>
-
-<h2>Diagnostic/Recovery</h2>
-<ul>
-  <li><a href="https://www.dell.com/support/home/en-ph/drivers/driversdetails?driverid=kt4xy">Dell Diag OS (Diagnostic OS)</a></li>
-  <li><a href="https://www.hirensbootcd.org/download/">Hirens Boot</a></li>
-  <li><a href="https://www.system-rescue.org/Download/">SystemRescue</a></li>
 </ul>
 
 <h2>Windows</h2>
