@@ -138,6 +138,13 @@ Software Tools or Utilities that I use or recommend using (Mostly Windows-Based)
 
 
 
+<h2>Speed Test</h2>
+  <a href="https://www.netacad.com/resources/lab/cisco-packet-tracer-resources">DNS Speed Test</a>
+<br>
+    <img src="https://github.com/user-attachments/assets/d5f1181c-1c84-4d8d-b9eb-94030554b7ab" alt="DNS Speed Test" style="width:50%">   
+
+
+
 <h2>SSH and telnet Client</h2>
   <a href="https://putty.org/index.html">PuTTY</a>
 <br>
