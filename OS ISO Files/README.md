@@ -60,6 +60,11 @@ Operating System (OS) ISO that I use
   <li><a href="https://www.microsoft.com/en-us/software-download/windows11">Windows 11</a></li>
 </ul>
 
+<h2>Try Out Different Linux Distro Online</h2>
+<ul>
+  <li><a href="https://distrosea.com/">DistroSea</a></li>
+</ul>
+
 <h2>Video References Used</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=_5vv3j-dW4o">Linux Tips - Install Full Debian Bookworm on a USB Drive (2023) | AgileDevArt</a></li>
