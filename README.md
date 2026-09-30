@@ -124,7 +124,7 @@ Software Tools or Utilities that I use or recommend using (Mostly Windows-Based)
 <br>
     <img src="https://github.com/user-attachments/assets/7f7d8fea-8bd3-4eba-96b8-7adea19cb2cf" alt="CyberClash" style="width:50%">
 <br>    
-    <a href="https://www.cyberclash.io/">DistroSea</a>
+    <a href="https://distrosea.com/">DistroSea</a>
 <br>
     <img src="https://github.com/user-attachments/assets/90c46b08-b4fe-4b6d-9c98-ab6a69aec84e" alt="DistroSea" style="width:50%">
 <br>
