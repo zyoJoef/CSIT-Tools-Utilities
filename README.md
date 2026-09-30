@@ -196,6 +196,7 @@ Software Tools or Utilities that I use or recommend using (Mostly Windows-Based)
   <li>https://support.parsec.app/hc/en-us/articles/32381199341716-Parsec-App-for-Windows</li>
   <li>https://cisco-packet-tracer.fileion.com/</li>
   <li>https://www.reddit.com/r/CompTIA_Security/comments/1vkc9h9/is_this_enough_to_pass/</li>
+  <li>https://en.ubunlog.com/dystrosea/</li>
   <li>https://store.steampowered.com/app/4851960/Service_Desk_Sim/</li>
   <li>https://switchlab.dev/</li>
   <li>https://tryhackme.com/certification/security-analyst-level-1</li>
