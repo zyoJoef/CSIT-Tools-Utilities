@@ -1,5 +1,5 @@
 # CSIT Tools Utilities
-Software Tools or Utilities that I mostly use or recommend using (Mostly Windows-Based)
+Software Tools or Utilities that I mostly use or recommend using 
 
 <h2>Bootable Installation Media</h2>
   <a href="https://www.balena.io/etcher-pro">Balena Etcher</a>
