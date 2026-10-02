@@ -17,6 +17,7 @@ Operating System (OS) ISO that I use or recommend using
   <li><a href="https://opnsense.org/download/">OPNsense</a></li>
   <li><a href="https://www.pfsense.org/download/">pfSense</a></li>
   <li><a href="https://www.sophos.com/en-us/free-tools/sophos-xg-firewall-home-edition">Sophos Firewall Home Edition</a></li>
+  <li><a href="https://wiki.edge.arista.com/index.php/NG_Firewall_Downloads">Untangle NG Firewall</a></li>
 </ul>
 
 
