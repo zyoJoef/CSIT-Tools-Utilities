@@ -87,6 +87,13 @@ Operating System (OS) ISO that I use
 
 
 
+<h2>Other Router/Embedded Device</h2>
+<ul>
+  <li><a href="https://downloads.openwrt.org/">OpenWrt</a></li>
+</ul>
+
+
+
 <h2>Video References Used</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=_5vv3j-dW4o">Linux Tips - Install Full Debian Bookworm on a USB Drive (2023) | AgileDevArt</a></li>
