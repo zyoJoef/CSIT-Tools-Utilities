@@ -58,7 +58,7 @@ Operating System (OS) ISO that I use or recommend using
 <h2>MacOS</h2>
 <ul>
   <li><a href="https://archive.org/details/macos_iso">MacOS</a></li>
-  <li><a href="https://www.truenas.com/download/">TrueNAS</a></li>
+  Note: This only includes the BigSur, Catalina, High Sierra, Monjave, Monterey and Ventura ISO
 </ul>
 
 
