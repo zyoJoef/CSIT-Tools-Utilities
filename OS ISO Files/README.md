@@ -37,6 +37,14 @@ Operating System (OS) ISO that I use or recommend using
       <li><a href="https://www.winux.is/download/">Winux</a></li>
     </ul>
 
+  <h3 id="list-title">Gaming</h3>
+    <ul>
+      <li><a href="https://www.debian.org/distrib/">Bazzite</a></li>
+      <li><a href="https://fedoraproject.org/workstation/">CachyOS</a></li>
+      <li><a href="https://www.kali.org/get-kali/#kali-platforms">Nobara</a></li>
+      <li><a href="https://linuxmint.com/download.php">Pop!_OS</a></li>
+    </ul>
+
   <h3 id="list-title">MacOs Theme</h3>
     <ul>
       <li><a href="https://cutefish-ubuntu.github.io/download/">Cutefish OS</a></li>
