@@ -47,8 +47,8 @@ Operating System (OS) ISO that I use or recommend using
     <ul>
       <li><a href="https://bazzite.gg/">Bazzite</a></li>
       <li><a href="https://cachyos.org/download/">CachyOS</a></li>
-      <li><a href="https://www.kali.org/get-kali/#kali-platforms">Nobara</a></li>
-      <li><a href="https://linuxmint.com/download.php">Pop!_OS</a></li>
+      <li><a href="https://nobaraproject.org/download.html">Nobara</a></li>
+      <li><a href="https://system76.com/download-pop/">Pop!_OS</a></li>
     </ul>
 
   <h3 id="list-title">MacOs Theme</h3>
