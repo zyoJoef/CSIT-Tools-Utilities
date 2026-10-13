@@ -36,7 +36,6 @@ Operating System (OS) ISO that I use or recommend using
     <ul>
       <li><a href="https://www.debian.org/distrib/">Debian</a></li>
       <li><a href="https://fedoraproject.org/workstation/">Fedora Workstation</a></li>
-      <li><a href="https://www.kali.org/get-kali/#kali-platforms">Kali</a></li>
       <li><a href="https://linuxmint.com/download.php">Mint</a></li>
       <li><a href="https://manjaro.org/products/download/x86">Manjaro</a></li>
       <li><a href="https://ubuntu.com/download/desktop">Ubuntu</a></li>
