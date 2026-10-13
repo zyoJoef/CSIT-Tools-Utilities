@@ -45,7 +45,7 @@ Operating System (OS) ISO that I use or recommend using
 
   <h3 id="list-title">Gaming</h3>
     <ul>
-      <li><a href="https://www.debian.org/distrib/">Bazzite</a></li>
+      <li><a href="https://bazzite.gg/">Bazzite</a></li>
       <li><a href="https://cachyos.org/download/">CachyOS</a></li>
       <li><a href="https://www.kali.org/get-kali/#kali-platforms">Nobara</a></li>
       <li><a href="https://linuxmint.com/download.php">Pop!_OS</a></li>
