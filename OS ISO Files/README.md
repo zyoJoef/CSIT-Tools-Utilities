@@ -112,7 +112,7 @@ Operating System (OS) ISO that I use or recommend using
 
 
 
-<h2>Other Router/Embedded Device (Non-Iso)</h2>
+<h2>Other Router/Embedded Device (Non-ISO)</h2>
 <ul>
   <li><a href="https://downloads.openwrt.org/">OpenWrt</a></li>
 </ul>
