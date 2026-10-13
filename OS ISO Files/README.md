@@ -26,6 +26,12 @@ Operating System (OS) ISO that I use or recommend using
 
 <h2>Linux</h2>
 <ul>
+  <h3 id="list-title">Cybersecurity</h3>
+    <ul>
+      <li><a href="https://www.kali.org/get-kali/#kali-platforms">Kali</a></li>
+      <li><a href="https://parrotsec.org/download/">Parrot OS</a></li>
+    </ul>
+  
   <h3 id="list-title">Desktop</h3>
     <ul>
       <li><a href="https://www.debian.org/distrib/">Debian</a></li>
